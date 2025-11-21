@@ -42,16 +42,17 @@ Contributions and feedback will be welcomed once the full release is published.
 
 If you use this work in your research, please cite the following publication:
 
-Somanna, M., Nagendraswamy, H.S., Jyothi, V.K., Preethi, N. (2026). Enhancing Indian Traffic Sign Detection Efficiency with Iterative Training Techniques and Augmentation. In: Guru, D.S., Rajurkar, A.M., Vinay Kumar, N., Gudivada, V.N. (eds) Data Analytics and Learning. ICDAL 2024. Lecture Notes in Networks and Systems, vol 1540. Springer, Singapore. https://doi.org/10.1007/978-981-96-9533-1_19
+Somanna, M., Nagendraswamy, H.S., Jyothi, V.K., Preethi, N. (2026). Enhancing Indian Traffic Sign Detection Efficiency with Iterative Training Techniques and Augmentation. In: Guru, D.S., Rajurkar, A.M., Vinay Kumar, N., Gudivada, V.N. (eds) Data Analytics and Learning. ICDAL 2024. Lecture Notes in Networks and Systems, vol 1540. Springer, Singapore. [https://doi.org/10.1007/978-981-96-9533-1_19](https://doi.org/10.1007/978-981-96-9533-1_19)
 
-DOI: https://doi.org/10.1007/978-981-96-9533-1_19
+DOI: [https://doi.org/10.1007/978-981-96-9533-1_19](https://doi.org/10.1007/978-981-96-9533-1_19)
 
 ## Acknowledgements
 
 Special thanks to Prof. H. S. Nagendraswamy, Prof. D. S. Guru, Dr. Vinay Kumar N, Thushar, and Laskmitha for their invaluable mentorship and dataset contributions.
 
+Also, a heartfelt thank you to Ultralytics for their open-source YOLO framework, which provided the foundational architecture and tools for this project.
+
 ## License
 
 To be announced with full code release.
 
----
