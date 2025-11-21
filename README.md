@@ -1,12 +1,12 @@
 # ITER: Iterative Training and Efficient Refinement
 
-### Automated Traffic Sign Detection Framework based on YOLOv10
+### Automated Traffic Sign Detection Framework based on YOLO
 
 ---
 
 ## Overview
 
-ITER is a fully automated YOLOv10-based pipeline designed for traffic sign detection in complex Indian road environments. It incorporates innovative self-learning techniques including auto-annotation, failure-case mining, and iterative retraining to continuously improve detection accuracy.
+ITER is a fully automated YOLOv-based pipeline designed for traffic sign detection in complex Indian road environments. It incorporates innovative self-learning techniques including auto-annotation, failure-case mining, and iterative retraining to continuously improve detection accuracy.
 
 ## Key Features
 
@@ -42,7 +42,7 @@ Contributions and feedback will be welcomed once the full release is published.
 
 If you use this work in your research, please cite the following publication:
 
-M. Somanna, H. S. Nagendraswamy, V. K. Jyothi, N. Preethi, "Automated Traffic Sign Detection Framework Using YOLOv10 with Iterative Training and Efficient Refinement," Data Analytics and Learning (ICDAL 2024), Lecture Notes in Networks and Systems, Springer, 2024.
+M. Somanna, H. S. Nagendraswamy, V. K. Jyothi, N. Preethi, "Automated Traffic Sign Detection Framework Using YOLO with Iterative Training and Efficient Refinement," Data Analytics and Learning (ICDAL 2024), Lecture Notes in Networks and Systems, Springer, 2024.
 
 DOI: https://doi.org/10.1007/978-981-96-9533-1_19
 
